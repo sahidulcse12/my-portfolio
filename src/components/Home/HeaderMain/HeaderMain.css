@@ -1,0 +1,21 @@
+.home-background{
+    background:#343F4F;
+    margin-top:0;
+    /* background: rgba(0, 0, 0, 0.795); */
+}
+
+.home-image img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+h1{
+     font-size:50px;
+     font-weight:500;
+}
+
+p{
+    font-size:20px;
+    font-weight:500;
+}

@@ -1,0 +1,14 @@
+.front-end,.backend,.others,.institution,.activities,.hobbies{
+    border:1px solid  gray;
+    border-radius: 4px;
+}
+
+.dynamic-text li{
+    background: gray;
+    list-style: none;
+    display: inline;
+    padding:10px 15px;
+    margin-right: 2px;
+    font-size:20px;
+    border-radius: 4px;
+}
